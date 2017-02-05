@@ -1,0 +1,5 @@
+SERVER_FOLDER_PATH=E:\\AppData\\srv\\SRV_Folder
+MODS_FOLDER_PATH=D:\\GMZ\\SteamLibrary\\steamapps\\workshop\\content\\107410
+
+KEY_SUBFOLDERS=key,keys,Key,Keys
+MODLIST=Mods.txt

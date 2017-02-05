@@ -1,0 +1,5 @@
+Chernarus_Winter_A3 = 744733174
+Isla_Duala=714149065
+Isla_Abramia=648775794
+ts_smd_a3=854738291
+ts_specter_armanents=854332709
